@@ -10,5 +10,10 @@
   		<artifactId>jsoup</artifactId>
   		<version>1.12.1</version>
   	</dependency>
+    <!--<dependency>-->
+        <!--<groupId>org.elasticsearch</groupId>-->
+        <!--<artifactId>elasticsearch</artifactId>-->
+        <!--<version>7.4.0</version>-->
+    <!--</dependency>-->
   </dependencies>
 </project>
